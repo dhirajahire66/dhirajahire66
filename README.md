@@ -9,9 +9,9 @@
 
 - 💬 Domain **ASIC/FPGA front-end Design and Verification**
 
-- 📫 How to reach me **dhirajma1602@gmail.com**
+- ⚡ Protocols **I2C, UART , SPI, APB, AHB, AXI**
 
-- ⚡ Fun fact **I am Funny**
+- 📫 How to reach me **dhirajma1602@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
