@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338?e=1712188800&v=beta&t=kZqFouJ4Sm-EOGMUBBG6doEQm5OybKOb4vpxvCzzpSE">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c4/b1/99/c4b19969def51164ea4ad9a290a217bf.gif">
 <h1 align="center">Hi 👋, I'm Dhiraj Ahire</h1>
 <h3 align="center">A passionate RTL Designer from India.</h3>
 
