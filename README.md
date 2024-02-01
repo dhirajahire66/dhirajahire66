@@ -1,7 +1,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338?e=1712188800&v=beta&t=kZqFouJ4Sm-EOGMUBBG6doEQm5OybKOb4vpxvCzzpSE">
 <h1 align="center">Hi 👋, I'm Dhiraj Ahire</h1>
-<h3 align="center">A passionate RTL Designer from India, I am always curious about how a square centimetre comprises millions of devices. It's quite interesting to write such codes that allow manufacturers to make efficient devices. Digital Electronics is my favourite subject, The World of 0 and 1 fascinated me.</h3>
+<h3 align="center">A passionate RTL Designer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajahire66&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajahire66" /> </p>
 
