@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **System Verilog , UVM, OVM**
 
-- 💬 Ask me about **RTL Design, Verification,Verilog, VLSI Design**
+- 💬 Domain **ASIC/FPGA front-end Design and Verification**
 
 - 📫 How to reach me **dhirajma1602@gmail.com**
 
